@@ -11,4 +11,4 @@ Information on variables is provided in the data dictionary.
 Information on some previous forecasting and modelling techniques provided in the slides. 
 
 # 4. Ready to submit your forecast?
-https://www.dropbox.com/scl/fo/veaid2rptl9zwzloeaqw9/ADsuVteVNBk7IR36JvJ14AU?rlkey=vftdvpeqe5npigdwiegtgbprx&st=awfkv47a&dl=0
+Submit your team's forecast [here](https://www.dropbox.com/scl/fo/veaid2rptl9zwzloeaqw9/ADsuVteVNBk7IR36JvJ14AU?rlkey=vftdvpeqe5npigdwiegtgbprx&st=awfkv47a&dl=0)
